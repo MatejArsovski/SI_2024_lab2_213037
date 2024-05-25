@@ -2,7 +2,8 @@
 <h2>Matej Arsovski</h2>
 <h3>Control Flow Graph</h3>
 
-![lab2final]
+![ezgif-2-21d196c74a](https://github.com/MatejArsovski/SI_2024_lab2_213037/assets/166020811/d31bb923-38f8-4490-8796-7fab81df3b90)
+
 
 
 <h3>Цикломатска комплексност</h3>
